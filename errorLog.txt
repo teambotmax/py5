@@ -1,0 +1,54 @@
+
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'me  ➠ คอนแทคเจ\n🏀 มิด  ➠ MID เรา\n🏀 ชื่อ  ➠ ชื่อเรา\n🏀 ตัส  ➠ สถานะเรา\n🏀 ตรวจสอบ  ➠ ผู้ตรวจสอบ\n⚽ ดิส  ➠ รูปโปรไฟล์\n⚽ ปก  ➠ รูปปก\n⚽ วีดีโอ  ➠ วีดีโอโปรไฟล์\n⚽ กลับ  ➠ กลับร่างเดิม\n⚽ เทส  ➠ ทดสอบบ
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of groupTitle: ⚓คำสั่งกลุ่ม⚓\n🔊 กลุ่ม ➠ ข้อมูลกลุ่ม\n🔊 ไอดีกลุ่ม ➠ไอดีห้อง\n🔊 ➠ ชื่อห้อง\n🔊 ข้อความ ➠ เปลี่ยนชื่อห้อง\n🔊 รูปกลุ่ม ➠ รูปกลุ่ม\n🔊 บ้าน ➠ ดูรายชื่อกลุ่ม\n🔊 สมาชิก ➠รายชื่อคนในห้อง\n🔊 เปิดลิ้ง ➠ เปิดลิ้งกลุ่ม\n🔊 ปิดลิ้ง ➠ ปิดลิ้งกลุ่ม\n🔊 ลิ้ง ➠ ขอลิ้งกลุ่ม\n🔊 MIDกลุ่ม  ➠ ดูมิดกลุ่ม\n🔊 แทค ➠ แทคคนในกลุ่ม\n🔊 ดึง ➠ เชิญด้วยคอนแทค\n🔊 ตั้งเวลา ➠ ตั้งเวลา\n🔊 ปิดเวลา ➠ ปิดเวลา\n🔊 รีเวลา ➠ ลบเวลาคนอ่าน\n🔊 bo ➠ รายชื่อที่เราบ๊อคเพื่อน\n🔊 #ประกาศ: ข้อความ ➠ ส่งแชททุกห้อง', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'me  ➠ คอนแทคเจ\n🏀 มิด  ➠ MID เรา\n🏀 ชื่อ  ➠ ชื่อเรา\n🏀 ตัส  ➠ สถานะเรา\n🏀 ตรวจสอบ  ➠ ผู้ตรวจสอบ\n⚽ ดิส  ➠ รูปโปรไฟล์\n⚽ ปก  ➠ รูปปก\n⚽ วีดีโอ  ➠ วีดีโอโปรไฟล์\n⚽ กลับ  ➠ กลับร่างเดิม\n⚽ เทส  ➠ ทดสอบบ
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of groupTitle: ⚓คำสั่งกลุ่ม⚓\n🔊 กลุ่ม ➠ ข้อมูลกลุ่ม\n🔊 ไอดีกลุ่ม ➠ไอดีห้อง\n🔊 ➠ ชื่อห้อง\n🔊 ข้อความ ➠ เปลี่ยนชื่อห้อง\n🔊 รูปกลุ่ม ➠ รูปกลุ่ม\n🔊 บ้าน ➠ ดูรายชื่อกลุ่ม\n🔊 สมาชิก ➠รายชื่อคนในห้อง\n🔊 เปิดลิ้ง ➠ เปิดลิ้งกลุ่ม\n🔊 ปิดลิ้ง ➠ ปิดลิ้งกลุ่ม\n🔊 ลิ้ง ➠ ขอลิ้งกลุ่ม\n🔊 MIDกลุ่ม  ➠ ดูมิดกลุ่ม\n🔊 แทค ➠ แทคคนในกลุ่ม\n🔊 ดึง ➠ เชิญด้วยคอนแทค\n🔊 ตั้งเวลา ➠ ตั้งเวลา\n🔊 ปิดเวลา ➠ ปิดเวลา\n🔊 รีเวลา ➠ ลบเวลาคนอ่าน\n🔊 bo ➠ รายชื่อที่เราบ๊อคเพื่อน\n🔊 #ประกาศ: ข้อความ ➠ ส่งแชททุกห้อง', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] 'changePictureProfile'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'me  ➠ คอนแทคเจ\n🏀 มิด  ➠ MID เรา\n🏀 ชื่อ  ➠ ชื่อเรา\n🏀 ตัส  ➠ สถานะเรา\n🏀 ตรวจสอบ  ➠ ผู้ตรวจสอบ\n⚽ ดิส  ➠ รูปโปรไฟล์\n⚽ ปก  ➠ รูปปก\n⚽ วีดีโอ  ➠ วีดีโอโปรไฟล์\n⚽ กลับ  ➠ กลับร่างเดิม\n⚽ เทส  ➠ ทดสอบบ
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'me  ➠ คอนแทคเจ\n🏀 มิด  ➠ MID เรา\n🏀 ชื่อ  ➠ ชื่อเรา\n🏀 ตัส  ➠ สถานะเรา\n🏀 ตรวจสอบ  ➠ ผู้ตรวจสอบ\n⚽ ดิส  ➠ รูปโปรไฟล์\n⚽ ปก  ➠ รูปปก\n⚽ วีดีโอ  ➠ วีดีโอโปรไฟล์\n⚽ กลับ  ➠ กลับร่างเดิม\n⚽ เทส  ➠ ทดสอบบ
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'me  ➠ คอนแทคเจ\n🏀 มิด  ➠ MID เรา\n🏀 ชื่อ  ➠ ชื่อเรา\n🏀 ตัส  ➠ สถานะเรา\n🏀 ตรวจสอบ  ➠ ผู้ตรวจสอบ\n⚽ ดิส  ➠ รูปโปรไฟล์\n⚽ ปก  ➠ รูปปก\n⚽ วีดีโอ  ➠ วีดีโอโปรไฟล์\n⚽ กลับ  ➠ กลับร่างเดิม\n⚽ เทส  ➠ ทดสอบบ
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of groupTitle: ⚓คำสั่งกลุ่ม⚓\n🔊 กลุ่ม ➠ ข้อมูลกลุ่ม\n🔊 ไอดีกลุ่ม ➠ไอดีห้อง\n🔊 ➠ ชื่อห้อง\n🔊 ข้อความ ➠ เปลี่ยนชื่อห้อง\n🔊 รูปกลุ่ม ➠ รูปกลุ่ม\n🔊 บ้าน ➠ ดูรายชื่อกลุ่ม\n🔊 สมาชิก ➠รายชื่อคนในห้อง\n🔊 เปิดลิ้ง ➠ เปิดลิ้งกลุ่ม\n🔊 ปิดลิ้ง ➠ ปิดลิ้งกลุ่ม\n🔊 ลิ้ง ➠ ขอลิ้งกลุ่ม\n🔊 MIDกลุ่ม  ➠ ดูมิดกลุ่ม\n🔊 แทค ➠ แทคคนในกลุ่ม\n🔊 ดึง ➠ เชิญด้วยคอนแทค\n🔊 ตั้งเวลา ➠ ตั้งเวลา\n🔊 ปิดเวลา ➠ ปิดเวลา\n🔊 รีเวลา ➠ ลบเวลาคนอ่าน\n🔊 bo ➠ รายชื่อที่เราบ๊อคเพื่อน\n🔊 #ประกาศ: ข้อความ ➠ ส่งแชททุกห้อง', parameterMap=None)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'group'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] list index out of range
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] Expecting value: line 1 column 1 (char 0)
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contact message format', parameterMap=None)
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
