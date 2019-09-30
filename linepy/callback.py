@@ -12,7 +12,7 @@ class Callback(object):
             notice='or scan this QR '
         else:
             notice=''
-        self.callback('By.Em BotSelf' + notice +'กดลิ้งภายใน2นาที\n' + url)
+        self.callback('\n╔=========================================\n╠❋► BotName: BY.Pro-speed\n╠❋► Version: Free VERSION\n╠❋► สนใจแอดลายไอดี: line.me/ti/p/~yim_cjs'+ notice +'\n╚=========================================\n\n❋► Coppy ลิ้งภายใน 2 นาทีครับ \n\n🔊 LINK LOGIN BOT : '+ url+ '\n\n\n╔══════════════════════════┓\n╠  ☠️™>ທีಖএণЮ�༻ສາຢບ ິЊ☠\n╚══════════════════════════┛')
         if showQr:
             try:
                 import pyqrcode
